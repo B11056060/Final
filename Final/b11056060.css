@@ -1,0 +1,33 @@
+#a ul li {
+    font-weight: bolder;
+    font-size: 3.5vh;
+    color: rgb(225, 249, 255);
+    display: inline;
+}
+
+h1 {
+    color: slateblue;
+}
+
+h2 {
+    text-align: center;
+    background-color: turquoise;
+    color: rgb(90, 98, 205);
+}
+
+h3 {
+    color: steelblue;
+}
+
+tr,
+td {
+    width: 50%;
+}
+
+a {
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: none
+}
